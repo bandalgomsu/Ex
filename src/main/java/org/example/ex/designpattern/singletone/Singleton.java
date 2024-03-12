@@ -1,4 +1,4 @@
-package org.example.ex.designpattern.staticfactorymethod;
+package org.example.ex.designpattern.singletone;
 
 public class Singleton {
     private static Singleton instance;

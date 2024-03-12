@@ -1,9 +1,9 @@
 package org.example.ex.designpattern;
 
 
+import org.example.ex.designpattern.singletone.Singleton;
 import org.example.ex.designpattern.staticfactorymethod.Music;
 import org.example.ex.designpattern.staticfactorymethod.MusicPlayer;
-import org.example.ex.designpattern.staticfactorymethod.Singleton;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
